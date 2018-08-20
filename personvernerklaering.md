@@ -4,13 +4,24 @@ _Personvernerklæringen beskriver hvordan Fagforbundet ivaretar personvernet dit
 
 _Sist endret: 28.06.2018._
 
+## Innholdsfortegnelse
+1. [Formål og grunnlag](#formal-og-grunnlag)
+2. [Ansvarsforhold](#ansvarsforhold)
+3. [Arkivering og sletting](#arkivering-og-sletting)
+4. [Behandlinger](#behandlinger)
+5. [Tilknyttede og samarbeidende organisasjoner](#tilknyttede-og-samarbeidende-organisasjoner)
+6. [Leverandører](#leverandorer)
+7. [Sikkerhetstiltak](#sikkerhetstiltak)
+8. [Dine rettigheter](#dine-rettigheter)
+9. [Kontakt oss](#kontakt-oss)
 
-## Formål og grunnlag
+
+## Formål og grunnlag <a name="formal-og-grunnlag"></a>
 
 ### Medlemmer
-Fagforbundet behandler personopplysninger om medlemmene for å oppfylle forpliktelsen forbundet har til å sikre medlemmenes rettigheter i tråd med Fagforbundets vedtekter og tariffavtalene som Fagforbundet har inngått med medlemmenes arbeidsgivere og deres arbeidsgiverorganisasjoner.
+Fagforbundet behandler personopplysninger om medlemmene for å oppfylle forpliktelsen forbundet har til å sikre medlemmenes rettigheter i tråd med [Fagforbundets vedtekter](http://www.fagforbundet.no/om-fagforbundet/?article_id=107865) og tariffavtalene som Fagforbundet har inngått med medlemmenes arbeidsgivere og deres arbeidsgiverorganisasjoner.
 
-Vedtektene er en gjensidig forpliktende avtale mellom Fagforbundet og medlemmene som inngås ved tegning av medlemskap. Tariffavtaler inngås mellom Fagforbundet og arbeidsgivere for å sikre medlemmenes rettigheter som arbeidstakere.
+[Vedtektene](http://www.fagforbundet.no/om-fagforbundet/?article_id=107865) er en gjensidig forpliktende avtale mellom Fagforbundet og medlemmene som inngås ved tegning av medlemskap. Tariffavtaler inngås mellom Fagforbundet og arbeidsgivere for å sikre medlemmenes rettigheter som arbeidstakere.
 
 Som hovedregel utgjør vedtektene og tariffavtalene Fagforbundets rettslige grunnlag for behandling av personopplysninger om medlemmer, tidligere medlemmer og personer som har søkt om medlemskap.
 
@@ -22,7 +33,7 @@ Med mindre annet er oppgitt, er samtykke Fagforbundets rettslige grunnlag for be
 ### Besøkende
 Besøkende i Fagforbundets lokaler blir bedt om å registrere seg med navn, virksomhet og kontaktopplysninger. Behandlingsgrunnlaget for besøksregistreringen er vår berettigede interesse i å ivareta informasjonssikkerheten og fysisk sikring av lokalene.
 
-## Ansvarsforhold
+## Ansvarsforhold <a name="ansvarsforhold"></a>
 
 Fagforbundet er et forbund tilsluttet LO og består av omlag 450 fagforeninger. Ansvaret for behandling av personopplysninger som er beskrevet i denne personvernerklæringen ligger hos Fagforbundet sentralt og de lokale fagforeningene.
 
@@ -43,10 +54,10 @@ _For eksempel: Deltakerlister i forbindelse med lokale arrangement._
 
 Hvis fagforeningen behandler personopplysninger til egne formål som ikke er omtalt i denne personvernerklæringen, skal behandlingen gå fram i fagforeningens egen personvernerklæring.
 
-## Arkivering og sletting
+## Arkivering og sletting <a name="arkivering-og-sletting"></a>
 Som hovedregel blir alle personopplysninger som registreres om medlemmer arkivert så lenge det er behov for dem. Bevaringsverdige opplysninger blir overlevert til Arbeiderbevegelsens arkiv og arkivert på ubestemt tid. Opplysninger som Fagforbundet ikke anser nødvendige for å oppfylle forpliktelsene overfor medlemmene, lovkrav eller andre legitime hensyn, blir slettet. 
 
-## Behandlinger
+## Behandlinger <a name="behandlinger"></a>
 
 ### Medlemsforvaltning
 
@@ -163,7 +174,7 @@ Fagforbundet gjennomfører spørreundersøkelser blant medlemmene for å innhent
 
 Det rettslige grunnlaget for behandling av personopplysninger i forbindelse med spørreundersøkelser er den enkeltes samtykke, med mindre noe annet er spesifisert i undersøkelsen.
 
-## Tilknyttede og samarbeidende organisasjoner
+## Tilknyttede og samarbeidende organisasjoner <a name="tilknyttede-og-samarbeidende-organisasjoner"></a>
 
 ### LO
 Fagforbundet er tilsluttet hovedsammenslutningen LO og samarbeider med andre organisasjoner innad i LO for å ivareta medlemmenes interesser og oppfylle Fagforbundets og LOs formål.
@@ -173,7 +184,7 @@ Fordelsprogrammet LOfavør er en del av medlemskapet i Fagforbundet. LOfavør ei
 
 Se LOfavørs personvernerklæring for mer informasjon om  hvordan LOfavør behandler personopplysninger.
 
-## Leverandører
+## Leverandører <a name="leverandorer"></a>
 
 Utover de samarbeidende organisasjonene i LO, har Fagforbundet avtaler med leverandører om å yte forskjellige tjenester som innbefatter behandling av personopplysninger.
 
@@ -204,13 +215,13 @@ Leverandører i alfabetisk rekkefølge:
 - Unit4 AS
 - Zendesk Inc.
 
-## Sikkerhetstiltak
+## Sikkerhetstiltak <a name="sikkerhetstiltak"></a>
 
 Fagforbundet har etablert rutiner for å beskytte integritet, konfidensialitet og tilgjengelighet i forbindelse med behandling av personopplysninger. 
 
 Det stilles krav om tilfredsstillende informasjonssikkerhet hos samarbeidende organisasjoner og leverandører som behandler personopplysninger på vegne av Fagforbundet.
 
-## Dine rettigheter
+## Dine rettigheter <a name="dine-rettigheter"></a>
 
 Du har rett til innsyn i opplysningene som Fagforbundet har lagret om deg. Dersom Fagforbundet har registrert uriktige eller ufullstendige opplysninger om deg, har du rett til å få opplysningene rettet eller supplert. Dersom Fagforbundet har registrert opplysninger som det ikke er behandlingsgrunnlag for, har du rett til å få opplysningene slettet.
 
@@ -218,7 +229,7 @@ Du kan ha flere rettigheter i tråd med personopplysningsloven enn de som er nev
 
 Krav om innsyn, retting og sletting besvares innen 30 dager. Slike krav kan rettes til Fagforbundet på <personvern@fagforbundet.no> eller per brev.
 
-## Kontakt oss
+## Kontakt oss <a name="kontakt-oss"></a>
 E-post: <personvern@fagforbundet.no>  
 Telefon: 23 06 40 00  
 Postadresse: Postboks 7003 St Olavs plass, 0130 Oslo
