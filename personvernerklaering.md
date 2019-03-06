@@ -200,7 +200,7 @@ Fagforbundet er tilsluttet hovedsammenslutningen LO og samarbeider med andre org
 ### LOfavør
 Fordelsprogrammet LOfavør er en del av medlemskapet i Fagforbundet. LOfavør eies av LO og alle LO-forbundene. Inkludert i medlemskapet er LOfavør Kollektiv Hjem innboforsikring og andre forsikringsordninger. LOfavør sender informasjon til Fagforbundets medlemmer om kollektive avtaler, individuelle fordeler og hvordan man kan ta i bruk fordelsprogrammet som medlem.
 
-Se LOfavørs personvernerklæring for mer informasjon om  hvordan LOfavør behandler personopplysninger.
+Se [LOfavørs personvernerklæring](https://www.lofavor.no/Meny-relaterte-linker-og-artikkeler/Personvern) for mer informasjon om  hvordan LOfavør behandler personopplysninger.
 
 ## Leverandører <a name="leverandorer"></a>
 
