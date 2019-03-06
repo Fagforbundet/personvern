@@ -151,6 +151,8 @@ Innlogging til Fagforbundets nettbaserte tjenester og mobil-app håndteres gjenn
 
 I forbindelse med innlogging og innloggingsforsøk lagres fødsels- og personnummer, IP-adresse, mobilnummer, type nettleser og tidspunkt for innloggingen. Ved innlogging med BankID lagres også brukerens BankID-referanse. Innlogginger og innloggingsforsøk blir anonymisert etter 30 dager.
 
+Ved førstegangsinnlogging med BankID blir det opprettet en bruker i Fagforbundets identitetssystem (id.fagforbundet.no) med brukerens navn, fødsels- og personnummer, mobilnummer, e-postadresse og eventuelle andre opplysninger som avgis i forbindelse med registreringen.
+
 Det rettslige grunnlaget for lagringen er en interesseavveining av hensyn til å gjennomføre sikker autentisering av brukere, og lovkrav til å sikre innloggingssystemet mot misbruk for å ivareta informasjonssikkerheten.
 
 ### Uravstemninger
