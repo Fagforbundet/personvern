@@ -2,7 +2,7 @@
 
 _Personvernerklæringen beskriver hvordan Fagforbundet ivaretar personvernet ditt som medlem i Fagforbundet, som besøkende hos Fagforbundet eller som bruker av tjenester der Fagforbundet registrerer personopplysninger om deg._
 
-_Sist endret: 28.06.2018._
+_Sist endret: 06.03.2019._
 
 ## Innholdsfortegnelse
 1. [Formål og grunnlag](#formal-og-grunnlag)
@@ -130,6 +130,21 @@ E-posthenvendelser kan i tillegg behandles i Fagforbundets e-postsystem som drif
 Telefonhenvendelser registreres i systemet Telenor MBN Sentralbord, som driftes av Nordialog AS og Telenor ASA. Opplysningene som lagres er anroperens telefonnummer, tidspunkt for henvendelsen og samtalens varighet. I forbindelse med telefonhenvendelser fra medlemmer kan det også registreres opplysninger fra samtalen i medlemssystemene.
 
 Det rettslige grunnlaget for behandling av korrespondanse av henvendelser er som hovedregel samtykke. Avhengig av korrespondansens karakter kan det også foreligge andre rettslige grunnlag for behandlingen.
+
+### Besøk på Fagforbundets nettsider
+
+Fagforbundet.no benytter som de fleste andre nettsteder informasjonskapsler (cookies). Informasjonskapsler er små informasjonsfiler som blir liggende igjen på datamaskinen din for at tjenesten vår skal virke best mulig for deg som bruker. Du kan når som helst <a href="https://nettvett.no/slik-administrer-du-informasjonskapsler/">avslå å samtykke i lagring av informasjonskapsler</a>.
+
+Følgende informasjonskapsler benyttes på fagforbundet.no:
+
+- **ff_personvern:** Informasjonskapsel som brukes til å vise/skjule banner om fagforbundet.no sin personvernpolitikk
+- **bgimg\_scope, bg\_img0 og bg\_img\_blurry:** Informasjonskapsel som brukes til å sette bakgrunnsbilde på nettsiden
+- PHPSESSID: Sesjonsinformasjonskapsel som er nødvendig for at nettstedet skal fungere, og blir definert når siden lastes. Informasjonskapselen blir slettet når du lukker nettleseren
+- **_gat, _ga, \_pk\_ref.1.9998 og \_pk.id\_1.9998:** Tredjeparts informasjonskapsler som blir brukt til å hente statistikk om hvordan besøkende benytter nettstedet. Fagforbundet.no bruker analyseverktøyene Piwik og Google Analytics.
+
+Din nettleser sender også automatisk opplysninger til fagforbundet.no sine servere hver gang du ber om å få vist en side. Dette er for eksempel opplysninger om hvilken nettleser og -versjon du bruker og din internettadresse (IP-adresse). For hver side som vises, lagres i tillegg opplysninger om dato og tid, hvilken side du kom fra og hvilken side du er på.
+
+Ingen av disse opplysningene blir brukt til å identifisere enkeltpersoner. Forbundet bruker disse opplysningene til å generere en samlet statistikk som blant annet viser hvilke sider som er mest populære og hvilken informasjon brukerne søker. Statistikken er et redskap til å forbedre våre tjenester til deg som sluttbruker.
 
 ### Innlogging (autentisering)
 Innlogging til Fagforbundets nettbaserte tjenester og mobil-app håndteres gjennom _id.fagforbundet.no_ som driftes av Fagforbundet og Hallo Verden AS.
