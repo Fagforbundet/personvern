@@ -19,9 +19,9 @@ _Sist endret: 06.03.2019._
 ## Formål og grunnlag <a name="formal-og-grunnlag"></a>
 
 ### Medlemmer
-Fagforbundet behandler personopplysninger om medlemmene for å oppfylle forpliktelsen forbundet har til å sikre medlemmenes rettigheter i tråd med [Fagforbundets vedtekter](http://www.fagforbundet.no/om-fagforbundet/?article_id=107865) og tariffavtalene som Fagforbundet har inngått med medlemmenes arbeidsgivere og deres arbeidsgiverorganisasjoner.
+Fagforbundet behandler personopplysninger om medlemmene for å oppfylle forpliktelsen forbundet har til å sikre medlemmenes rettigheter i tråd med [Fagforbundets vedtekter](https://www.fagforbundet.no/om-fagforbundet/vedtekter/) og tariffavtalene som Fagforbundet har inngått med medlemmenes arbeidsgivere og deres arbeidsgiverorganisasjoner.
 
-[Vedtektene](http://www.fagforbundet.no/om-fagforbundet/?article_id=107865) er en gjensidig forpliktende avtale mellom Fagforbundet og medlemmene som inngås ved tegning av medlemskap. Tariffavtaler inngås mellom Fagforbundet og arbeidsgivere for å sikre medlemmenes rettigheter som arbeidstakere.
+[Vedtektene](https://www.fagforbundet.no/om-fagforbundet/vedtekter/) er en gjensidig forpliktende avtale mellom Fagforbundet og medlemmene som inngås ved tegning av medlemskap. Tariffavtaler inngås mellom Fagforbundet og arbeidsgivere for å sikre medlemmenes rettigheter som arbeidstakere.
 
 Som hovedregel utgjør vedtektene og tariffavtalene Fagforbundets rettslige grunnlag for behandling av personopplysninger om medlemmer, tidligere medlemmer og personer som har søkt om medlemskap.
 
