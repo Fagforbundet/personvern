@@ -187,9 +187,10 @@ Søknad om stipend og behandling av stipendsøknader behandles i Fagforbundets s
 I forbindelse med stipendsøknader registreres navn, medlemsnummer, kontaktopplysninger, kontonummer, opplysninger om hvorvidt arbeidsgiver eller andre dekker deler av utgiftene, og opplysninger om kurset eller utdanningen som det søkes stipend for. Formålet og grunnlaget for registreringen er å behandle stipendsøknader i henhold til gjeldende regler for stipend i Fagforbundet og lovkrav (bokføringsloven). Opplysningene innhentes fra medlemmene som selv fyller ut søknaden.
 
 ### Spørreundersøkelser
-Fagforbundet gjennomfører spørreundersøkelser blant medlemmene for å innhente innsikt og innspill. Til spørreundersøkelser benyttes Opinion AS, Netigate Norge AS, SurveyMonkey, Typeform og LO Media. De fleste spørreundersøkelsene gjennomføres anonymt og dermed uten behandling av personopplysninger. I tilfeller der det innhentes personopplysninger, er behandlingen regulert i en databehandleravtale med leverandøren. Personopplysningene blir slettet når formålet med undersøkelsen er oppnådd.
+Fagforbundet gjennomfører spørreundersøkelser blant medlemmene for å innhente innsikt og innspill. Til spørreundersøkelser benyttes Opinion AS, Fafo, Netigate Norge AS, SurveyMonkey, Typeform og LO Media. De fleste spørreundersøkelsene gjennomføres anonymt og dermed uten behandling av personopplysninger utover kontaktopplysninger til personer som undersøkelsen sendes ut til. I tilfeller der det utleveres eller innhentes personopplysninger, er behandlingen regulert i en databehandleravtale med leverandøren. Personopplysningene blir slettet når formålet med undersøkelsen er oppnådd.
 
-Det rettslige grunnlaget for behandling av personopplysninger i forbindelse med spørreundersøkelser er den enkeltes samtykke, med mindre noe annet er spesifisert i undersøkelsen.
+Det rettslige grunnlaget for utlevering av medlemmers kontaktopplysninger til databehandlere i forbindelse med spørreundersøkelser er forbundets vedtekter. Det rettslige grunnlaget for behandling av eventuelle personopplysninger som innhentes i forbindelse med spørreundersøkelser er den enkeltes samtykke, med mindre noe annet er spesifisert i undersøkelsen.
+
 
 ## Tilknyttede og samarbeidende organisasjoner <a name="tilknyttede-og-samarbeidende-organisasjoner"></a>
 
@@ -213,6 +214,7 @@ Leverandører i alfabetisk rekkefølge:
 - Broadcom AS
 - Escio AS
 - Evry AS
+- Fafo
 - Fence AS
 - Filemail AS
 - Google Inc.
