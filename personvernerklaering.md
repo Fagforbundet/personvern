@@ -2,7 +2,7 @@
 
 _Personvernerklæringen beskriver hvordan Fagforbundet ivaretar personvernet ditt som medlem i Fagforbundet, som besøkende hos Fagforbundet eller som bruker av tjenester der Fagforbundet registrerer personopplysninger om deg._
 
-_Sist endret: 06.03.2019._
+_Sist endret: 02.10.2019._
 
 ## Innholdsfortegnelse
 1. [Formål og grunnlag](#formal-og-grunnlag)
