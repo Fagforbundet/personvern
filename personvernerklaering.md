@@ -249,8 +249,9 @@ Du kan ha flere rettigheter i tråd med personopplysningsloven enn de som er nev
 Krav om innsyn, retting og sletting besvares innen 30 dager. Slike krav kan rettes til Fagforbundet på <personvern@fagforbundet.no> eller per brev.
 
 ## Kontakt oss <a name="kontakt-oss"></a>
-E-post: <personvern@fagforbundet.no>  
-Telefon: 23 06 40 00  
-Postadresse: Postboks 7003 St Olavs plass, 0130 Oslo
 
+Personvernombud: Eirik Randsborg Lie<br>
+E-post: <eirik.randsborg.lie@fagforbundet.no><br>
+Telefon: <a href="tel:454 29 677">454 29 677</a><br>
+Postadresse: Postboks 7003 St Olavs plass, 0130 Oslo
 
